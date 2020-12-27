@@ -1,4 +1,4 @@
-__author__ = 'Avendaño - Sarmiento'
+__author__ = 'Avendaño '
 
 
 import random
